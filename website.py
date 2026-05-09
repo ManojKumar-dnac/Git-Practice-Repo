@@ -1,6 +1,6 @@
 # Storing data in variables
 name = "Riya"
-age = 20
+age = 80
 score = 85.5
 
 # Basic arithmetic
